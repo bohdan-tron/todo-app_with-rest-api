@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/todo-app_with-rest-api/static/css/main.25b5600e.css",
+    "main.js": "/todo-app_with-rest-api/static/js/main.61180ad4.js",
+    "static/media/mail.svg": "/todo-app_with-rest-api/static/media/mail.c4e2250b999fbdc00ce8.svg",
+    "index.html": "/todo-app_with-rest-api/index.html",
+    "main.25b5600e.css.map": "/todo-app_with-rest-api/static/css/main.25b5600e.css.map",
+    "main.61180ad4.js.map": "/todo-app_with-rest-api/static/js/main.61180ad4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25b5600e.css",
+    "static/js/main.61180ad4.js"
+  ]
+}
