@@ -1,6 +1,6 @@
 {
-  "name": "react_people-table-basics",
-  "homepage": "https://bohdan-tron.github.io/react_todo-app/",
+  "name": "todo-app_with-rest-api",
+  "homepage": "https://bohdan-tron.github.io/todo-app_with-rest-api/",
   "version": "0.1.0",
   "keywords": [],
   "author": "Mate Academy",
@@ -44,7 +44,7 @@
     "update": "mate-scripts update",
     "postinstall": "npm run update && cypress verify",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "mate-scripts deploy"
   },
   "browserslist": {
     "production": [

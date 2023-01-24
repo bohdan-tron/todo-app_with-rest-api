@@ -1,6 +1,6 @@
 # Todo List with external API
 
-Here is the [DEMO LINK]().
+Here is the [DEMO LINK](https://bohdan-tron.github.io/react_todo-app_with-rest-api/).
 Registration fields can be filled by dummy data. User data will be stored in localStorage.
 
 ### Available Features
